@@ -3,9 +3,36 @@ import path from "path";
 import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
-import remarkGfm from "remark-gfm";
 
 const postsDirectory = path.join(process.cwd(), "posts");
+
+function convertMarkdownTables(markdown: string): string {
+  const lines = markdown.split("\n");
+  const result: string[] = [];
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    const nextLine = lines[i + 1] || "";
+    if (/^\|.+\|/.test(line) && /^\|[-| :]+\|/.test(nextLine)) {
+      const headers = line.split("|").slice(1, -1).map((c) => c.trim());
+      i += 2;
+      const rows: string[][] = [];
+      while (i < lines.length && /^\|.+\|/.test(lines[i])) {
+        rows.push(lines[i].split("|").slice(1, -1).map((c) => c.trim()));
+        i++;
+      }
+      const thead = `<thead><tr>${headers.map((h) => `<th>${h}</th>`).join("")}</tr></thead>`;
+      const tbody = rows.length
+        ? `<tbody>${rows.map((row) => `<tr>${row.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>`
+        : "";
+      result.push(`<table>${thead}${tbody}</table>`);
+    } else {
+      result.push(line);
+      i++;
+    }
+  }
+  return result.join("\n");
+}
 
 export type Post = {
   slug: string;
@@ -59,7 +86,8 @@ export async function getPostBySlug(slug: string): Promise<Post | null> {
   if (!fs.existsSync(fullPath)) return null;
   const fileContents = fs.readFileSync(fullPath, "utf8");
   const { data, content } = matter(fileContents);
-  const processed = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
+  const processedContent = convertMarkdownTables(content);
+  const processed = await remark().use(html, { sanitize: false }).process(processedContent);
   return {
     slug,
     title: data.title || "",
