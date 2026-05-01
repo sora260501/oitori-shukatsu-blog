@@ -25,7 +25,7 @@ function convertMarkdownTables(markdown: string): string {
       const tbody = rows.length
         ? `<tbody>${rows.map((row) => `<tr>${row.map((c) => `<td>${c}</td>`).join("")}</tr>`).join("")}</tbody>`
         : "";
-      result.push(`<div class="table-wrapper"><table>${thead}${tbody}</table></div>`);
+      result.push(`<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin-bottom:1.5rem"><table style="width:100%;border-collapse:collapse;min-width:500px">${thead}${tbody}</table></div>`);
     } else {
       result.push(line);
       i++;
