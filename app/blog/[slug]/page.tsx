@@ -20,7 +20,7 @@ export async function generateMetadata({
     title: post.title,
     description: post.description,
     openGraph: {
-      url: `https://oitori-shukatsu-blog.vercel.app/blog/${slug}`,
+      url: `https://ohitori-shukatsu-blog.vercel.app/blog/${slug}`,
       images: [
         {
           url: "/og-image.png",
