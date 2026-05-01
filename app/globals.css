@@ -75,6 +75,9 @@ body {
   width: 100%;
   border-collapse: collapse;
   margin-bottom: 1.5rem;
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 .prose th {
@@ -83,12 +86,14 @@ body {
   padding: 0.6rem 1rem;
   text-align: left;
   font-size: 0.9rem;
+  white-space: nowrap;
 }
 
 .prose td {
   border: 1px solid #e0dbd4;
   padding: 0.6rem 1rem;
   font-size: 0.9rem;
+  white-space: nowrap;
 }
 
 .prose tr:nth-child(even) td {
