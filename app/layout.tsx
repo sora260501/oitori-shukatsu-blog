@@ -13,6 +13,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "ja_JP",
     siteName: "おひとり様の終活ノート",
+    url: "https://oitori-shukatsu-blog.vercel.app",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
   },
 };
 
