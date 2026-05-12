@@ -32,32 +32,32 @@ const affiliateMap: Record<
   { title: string; description: string; href: string; label: string }
 > = {
   "nursing-home-for-single": {
-    title: "おすすめ：老人ホーム紹介サービス（無料）",
+    title: "参考：みんなの介護（老人ホーム検索サイト）",
     description:
-      "ケアマネ経験者のスタッフが、おひとり様に合った施設を無料でご提案します。",
-    href: "#affiliate-link-placeholder",
-    label: "無料で施設を探す",
+      "全国の老人ホーム・介護施設を検索できる情報サイト。施設の種類・費用・口コミを比較できます。",
+    href: "https://www.minnanokaigo.com/",
+    label: "みんなの介護で施設を探す",
   },
   "death-after-tasks-contract": {
-    title: "おすすめ：死後事務委任契約の専門家に相談",
+    title: "参考：日本司法書士会連合会",
     description:
-      "弁護士・司法書士による死後事務委任契約の無料相談。おひとり様の終活をトータルサポートします。",
-    href: "#affiliate-link-placeholder",
-    label: "専門家に無料相談する",
+      "死後事務委任契約や遺言書作成の相談窓口を探せます。全国の司法書士に相談できます。",
+    href: "https://www.shiho-shoshi.or.jp/",
+    label: "司法書士会の公式サイトを見る",
   },
   "will-for-single": {
-    title: "おすすめ：遺言書作成を専門家にサポートしてもらう",
+    title: "参考：日本公証人連合会",
     description:
-      "公正証書遺言の作成を司法書士・弁護士がサポート。費用・手続きの相談も無料で受け付けています。",
-    href: "#affiliate-link-placeholder",
-    label: "遺言書作成の相談はこちら",
+      "公正証書遺言の作成は全国の公証役場で行えます。公証役場の所在地・手続きはこちらで確認できます。",
+    href: "https://www.koshonin.gr.jp/",
+    label: "公証役場を探す",
   },
   "medical-care-for-single": {
-    title: "おすすめ：身元保証サービスの資料請求",
+    title: "参考：全国身元保証協会",
     description:
-      "入院・施設入居時の身元保証から死後事務まで一括サポート。まずは無料資料請求から。",
-    href: "#affiliate-link-placeholder",
-    label: "無料資料請求はこちら",
+      "入院・施設入居時の身元保証サービスを提供する団体の一覧・情報を確認できます。",
+    href: "https://zenshin-kyokai.or.jp/",
+    label: "身元保証について詳しく見る",
   },
 };
 
