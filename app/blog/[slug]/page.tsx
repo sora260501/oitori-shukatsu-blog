@@ -32,11 +32,11 @@ const affiliateMap: Record<
   { title: string; description: string; href: string; label: string }
 > = {
   "nursing-home-for-single": {
-    title: "参考：みんなの介護（老人ホーム検索サイト）",
+    title: "参考：厚生労働省 介護事業所・生活関連情報検索",
     description:
-      "全国の老人ホーム・介護施設を検索できる情報サイト。施設の種類・費用・口コミを比較できます。",
-    href: "https://www.minnanokaigo.com/",
-    label: "みんなの介護で施設を探す",
+      "全国の介護施設・サービスを公的機関のデータベースで検索できます。施設の種類・所在地・サービス内容を確認できます。",
+    href: "https://www.kaigokensaku.mhlw.go.jp/",
+    label: "介護施設を探す（厚生労働省）",
   },
   "death-after-tasks-contract": {
     title: "参考：日本司法書士会連合会",
