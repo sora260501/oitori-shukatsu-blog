@@ -59,6 +59,27 @@ const affiliateMap: Record<
     href: "https://zenshin-kyokai.or.jp/",
     label: "身元保証について詳しく見る",
   },
+  "funeral-for-single": {
+    title: "おすすめ：みんなの海洋散骨（無料見積もり）",
+    description:
+      "全国海域対応・粉骨費用込み・追加費用なしの安心の葬送業者。海洋散骨や遺骨の供養についてまず無料で見積もりを。",
+    href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
+    label: "無料見積もりはこちら",
+  },
+  "funeral-grave-for-single": {
+    title: "おすすめ：みんなの海洋散骨（無料見積もり）",
+    description:
+      "全国海域対応・粉骨費用込み・追加費用なしの安心の葬送業者。海洋散骨や遺骨の供養についてまず無料で見積もりを。",
+    href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
+    label: "無料見積もりはこちら",
+  },
+  "no-heir-for-single": {
+    title: "おすすめ：みんなの海洋散骨（無料見積もり）",
+    description:
+      "相続人がいないおひとり様に。全国海域対応の海洋散骨サービス。粉骨費用込み・追加費用なしで安心です。",
+    href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
+    label: "無料見積もりはこちら",
+  },
 };
 
 export default async function PostPage({
