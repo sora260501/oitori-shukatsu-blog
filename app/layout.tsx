@@ -91,7 +91,7 @@ export default function RootLayout({
               </div>
             </div>
             <div className="border-t border-green-700 pt-4 text-center text-xs">
-              © 2025 おひとり様の終活ノート. 本サイトはアフィリエイト広告を含む場合があります。
+              © 2026 おひとり様の終活ノート. 本サイトはアフィリエイト広告を含む場合があります。
             </div>
           </div>
         </footer>
