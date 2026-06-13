@@ -66,6 +66,43 @@ tags: ["終活", "おひとり様", "老後資金", "介護", "リスク", "備�
 
 長年かけて貯めた財産も、遺言書がなければ自分の意思とは無関係に処理されます。葬儀やお墓も、自分の希望どおりにはなりません。
 
+## 図解④：実際に起こる手続きの流れ（東京都の例）
+
+「亡くなった後、現実にはどんな手続きが進むのか」——あまり知られていませんが、おひとり様が賃貸で亡くなった場合、東京都ではおおむね次のように進みます。
+
+<div style="max-width:480px;margin:1.8rem auto">
+  <div style="background:#f5f2ed;border:1px solid #d9c9b3;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#3d5c52;line-height:1.5">大家・隣人などが異変に気づき発見</div>
+  <div style="text-align:center;color:#c4956a;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#f5f2ed;border:1px solid #d9c9b3;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#3d5c52;line-height:1.5">警察へ通報（110番）<br><span style="font-weight:400;font-size:0.85rem;color:#777">検視・死体検案で死因を確認</span></div>
+  <div style="text-align:center;color:#c4956a;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#f5f2ed;border:1px solid #d9c9b3;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#3d5c52;line-height:1.5">東京都監察医務院で検案・解剖<br><span style="font-weight:400;font-size:0.85rem;color:#777">（23区は監察医制度あり）</span></div>
+  <div style="text-align:center;color:#c4956a;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#f5f2ed;border:1px solid #d9c9b3;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#3d5c52;line-height:1.5">引取り手がなければ「区」が火葬<br><span style="font-weight:400;font-size:0.85rem;color:#777">墓地埋葬法 第9条にもとづく</span></div>
+  <div style="text-align:center;color:#c4956a;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#f5f2ed;border:1px solid #d9c9b3;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#3d5c52;line-height:1.5">遺骨は一定期間保管後、<strong>無縁塚</strong>へ</div>
+  <div style="text-align:center;color:#c0573f;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#fbeae5;border:2px solid #c0573f;border-radius:10px;padding:0.85rem 1rem;text-align:center;font-weight:700;color:#a8412c;line-height:1.5">部屋の荷物・銀行口座は「相続財産」として宙ぶらりんに</div>
+</div>
+
+問題はこの先です。室内の荷物や預貯金は、すべて法律上の**「相続財産」**にあたります。大家さんが勝手に処分することはできず、次のような負担が周囲に生じます。
+
+### 誰が・何を担当するのか
+
+| 項目 | 担当 | 補足 |
+|---|---|---|
+| 発見時の通報 | 大家・管理会社・隣人 | まず警察へ |
+| 検案・火葬の手続き | 区の福祉事務所など | 費用はまず遺留金から、不足分は区が立替 |
+| 部屋の特殊清掃・残置物撤去 | 多くは大家が費用負担 | 30〜100万円以上かかることも |
+| 銀行口座・資産の調査と支払い | 相続財産清算人（弁護士など） | 家裁への申立てと予納金が必要 |
+
+### 銀行口座と資産はこうなる
+
+相続人がいない場合、銀行口座は**凍結されたまま**になります。誰かが家庭裁判所に申し立てて**相続財産清算人**（多くは弁護士）が選任されてはじめて、口座の調査・解約・未払い分の支払いが行われます。
+
+ただし、この申し立てには**予納金（数十万〜100万円程度）**が必要で、**誰も申し立てなければ手続きは始まりません**。結果として、大家さんが清掃費を自己負担したまま、資産だけが長期間放置される——ということが現実に起きています。
+
+**死後事務委任契約や遺言書があれば、これらをすべて受任者・遺言執行者がスムーズに代行できます。** この一点だけでも、周囲の負担はまったく変わってきます。
+
 ## 「備えた場合」と「備えなかった場合」の違い
 
 同じ状況でも、生前の備えがあるかどうかで結果は大きく変わります。
