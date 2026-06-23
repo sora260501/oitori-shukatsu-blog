@@ -19,7 +19,25 @@ tags: ["デジタル終活", "SNS", "ネット銀行", "スマホ", "デジタ�
 
 おひとり様の場合、こうしたデジタル資産の存在を把握している家族がいないことが多く、放置によるリスクはさらに高まります。今のうちに整理しておくことが、自分自身と周囲への思いやりになります。
 
-## 整理すべきデジタル資産の6種類
+## デジタル終活の5ステップ（全体像）
+
+デジタル終活は、次の5つのステップで進めれば迷いません。まず全体像をつかみましょう。
+
+<div style="max-width:480px;margin:1.8rem auto">
+  <div style="background:#eef3f0;border:2px solid #5c7a6e;border-radius:10px;padding:0.9rem 1rem;color:#3d5c52;line-height:1.5"><span style="display:inline-block;background:#5c7a6e;color:#fff;border-radius:50%;width:1.6rem;height:1.6rem;text-align:center;line-height:1.6rem;font-weight:700;margin-right:0.5rem">1</span><strong>デジタル資産を洗い出す</strong><br><span style="font-size:0.85rem;color:#666;margin-left:2.1rem">スマホ・SNS・ネット銀行・サブスクなど</span></div>
+  <div style="text-align:center;color:#7a9e8e;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#eef3f0;border:2px solid #5c7a6e;border-radius:10px;padding:0.9rem 1rem;color:#3d5c52;line-height:1.5"><span style="display:inline-block;background:#5c7a6e;color:#fff;border-radius:50%;width:1.6rem;height:1.6rem;text-align:center;line-height:1.6rem;font-weight:700;margin-right:0.5rem">2</span><strong>ID・パスワードを記録する</strong><br><span style="font-size:0.85rem;color:#666;margin-left:2.1rem">紙に書いて安全な場所に保管</span></div>
+  <div style="text-align:center;color:#7a9e8e;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#eef3f0;border:2px solid #5c7a6e;border-radius:10px;padding:0.9rem 1rem;color:#3d5c52;line-height:1.5"><span style="display:inline-block;background:#5c7a6e;color:#fff;border-radius:50%;width:1.6rem;height:1.6rem;text-align:center;line-height:1.6rem;font-weight:700;margin-right:0.5rem">3</span><strong>SNS・サブスクの方針を決める</strong><br><span style="font-size:0.85rem;color:#666;margin-left:2.1rem">削除・追悼アカウント・解約</span></div>
+  <div style="text-align:center;color:#7a9e8e;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#eef3f0;border:2px solid #5c7a6e;border-radius:10px;padding:0.9rem 1rem;color:#3d5c52;line-height:1.5"><span style="display:inline-block;background:#5c7a6e;color:#fff;border-radius:50%;width:1.6rem;height:1.6rem;text-align:center;line-height:1.6rem;font-weight:700;margin-right:0.5rem">4</span><strong>大切なデータをバックアップ</strong><br><span style="font-size:0.85rem;color:#666;margin-left:2.1rem">写真・動画を外部に保存</span></div>
+  <div style="text-align:center;color:#7a9e8e;font-size:1.4rem;line-height:1.2;margin:0.15rem 0">▼</div>
+  <div style="background:#5c7a6e;border:2px solid #5c7a6e;border-radius:10px;padding:0.9rem 1rem;color:#fff;line-height:1.5"><span style="display:inline-block;background:#fff;color:#5c7a6e;border-radius:50%;width:1.6rem;height:1.6rem;text-align:center;line-height:1.6rem;font-weight:700;margin-right:0.5rem">5</span><strong>エンディングノートにまとめる</strong><br><span style="font-size:0.85rem;color:#e0ece7;margin-left:2.1rem">保管場所を信頼できる人に伝える</span></div>
+</div>
+
+ここからは、各ステップの具体的なやり方を見ていきましょう。
+
+## ステップ1：整理すべきデジタル資産の6種類を洗い出す
 
 まず、自分がどんなデジタル資産を持っているかを把握しましょう。整理が必要なものは大きく6種類あります。
 
@@ -144,6 +162,22 @@ Facebookには「追悼アカウント管理人」を事前に設定する機能
 
 このようにまとめておくことで、後を任せる人が迷わず対応できます。エンディングノートは市販品でも手書きのノートでも構いません。「デジタル情報」のページを1〜2ページ設けるだけで、大きな安心につながります。
 
+エンディングノートの書き方全般については、[おひとり様のエンディングノートの書き方｜何を・どこに書けばいい？](/blog/ending-note-for-single)でくわしく解説しています。
+
+## よくある質問（FAQ）
+
+**Q. 死んだら家族がスマホのパスワードを解除できますか？**
+A. 原則として、本人以外がスマホのロックを解除することは非常に困難です。Apple・Googleともに、本人確認なしでの解除には応じないのが基本です。だからこそ、生前に暗証番号を紙に記録し、安全な場所に保管しておくことが重要です。
+
+**Q. ネット銀行の口座は、亡くなった後どうなりますか？**
+A. 通帳がないため遺族が存在に気づかず、**休眠口座**になってしまうことがあります。10年以上取引がないと、預金は「休眠預金」として扱われます。口座の存在をエンディングノートに記録しておきましょう。デジタル遺産の詳細は[おひとり様のデジタル遺産整理術](/blog/digital-estate-for-single)も参考にしてください。
+
+**Q. サブスクは放置するとどうなりますか？**
+A. 解約しない限り、クレジットカードから料金が引き落とされ続けます。カードが利用停止になるまで請求が続くこともあるため、加入サービスの一覧と解約方法を残しておくことが大切です。
+
+**Q. パスワード管理アプリと手書き、どちらが安全ですか？**
+A. デジタルに慣れている方は管理アプリ、そうでない方は手書き＋安全な場所での保管がおすすめです。どちらの場合も「マスターパスワード」や「保管場所」を信頼できる人に伝えておくことがポイントです。
+
 ## まとめ
 
 デジタル終活は、特別な知識がなくても、今日からすぐに始められます。
@@ -155,3 +189,10 @@ Facebookには「追悼アカウント管理人」を事前に設定する機能
 - パスワードの記録は年に1度見直して更新する
 
 おひとり様の場合、デジタル資産の情報を持っているのは自分だけ、ということがほとんどです。「誰かが気づいてくれるだろう」は通用しません。ぜひ今日、エンディングノートを開いて「デジタル情報ページ」をつくることから始めてみてください。
+
+## 関連記事
+
+- [【図解】おひとり様の終活、何から始める？優先順位がわかる5ステップ](/blog/shukatsu-steps-for-single)
+- [おひとり様のエンディングノートの書き方｜何を・どこに書けばいい？](/blog/ending-note-for-single)
+- [おひとり様のデジタル遺産整理術｜スマホ・SNS・ネット口座を死後に残さない方法](/blog/digital-estate-for-single)
+- [おひとり様の終活チェックリスト｜今すぐ確認すべき20項目](/blog/shukatsu-checklist-for-single)
