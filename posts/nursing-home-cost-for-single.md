@@ -122,3 +122,9 @@ A. 短期間で退去・死亡した場合の返還ルール（初期償却の�
 - [おひとり様の身元保証サービスおすすめ7選｜費用・特徴を徹底比較](/blog/identity-guarantee-comparison)
 - [おひとり様の老後資金｜いくら必要？貯め方・使い方の基本](/blog/retirement-fund-for-single)
 - [終活にかかる費用はいくら？おひとり様が準備すべき総額と内訳](/blog/shukatsu-cost-for-single)
+
+## 関連記事
+
+- [おひとり様が老人ホームに入るには？身元保証問題と施設選びのポイント](/blog/nursing-home-for-single)
+- [保証人が頼めない…おひとり様の身元保証サービスとは？費用・選び方・悪質業者の見分け方](/blog/identity-guarantee-for-single)
+- [おひとり様の医療・介護の備え｜入院・手術の同意書問題から在宅介護まで](/blog/medical-care-for-single)

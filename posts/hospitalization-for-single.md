@@ -134,3 +134,10 @@ A. 費用・サービス内容・運営団体の信頼性を複数社で比較�
 - [おひとり様の身元保証サービスおすすめ7選｜費用・特徴を徹底比較](/blog/identity-guarantee-comparison)
 - [おひとり様の任意後見制度とは｜認知症になる前にできる備え](/blog/voluntary-guardianship-for-single)
 - [おひとり様の医療・介護の備え｜入院・手術の同意書問題から在宅介護まで](/blog/medical-care-for-single)
+
+## 関連記事
+
+- [身元保証人がいないと入院できない？は本当か｜おひとり様の入院の現実](/blog/hospitalization-refusal-for-single)
+- [保証人が頼めない…おひとり様の身元保証サービスとは？費用・選び方・悪質業者の見分け方](/blog/identity-guarantee-for-single)
+- [おひとり様の任意後見制度とは｜認知症になる前にできる備え](/blog/voluntary-guardianship-for-single)
+- [おひとり様の医療・介護の備え｜入院・手術の同意書問題から在宅介護まで](/blog/medical-care-for-single)
