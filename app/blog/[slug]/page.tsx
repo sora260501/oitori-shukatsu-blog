@@ -80,6 +80,13 @@ const affiliateMap: Record<
     href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
     label: "無料見積もりはこちら",
   },
+  "ocean-scattering-for-single": {
+    title: "おすすめ：みんなの海洋散骨（無料見積もり）",
+    description:
+      "全国海域対応・粉骨費用込み・追加費用なしの安心の葬送業者。委託散骨から乗船散骨まで、まず無料見積もりで費用感を確認できます。",
+    href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
+    label: "無料見積もりはこちら",
+  },
 };
 
 export default async function PostPage({
