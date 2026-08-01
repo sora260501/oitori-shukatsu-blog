@@ -87,6 +87,13 @@ const affiliateMap: Record<
     href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
     label: "無料見積もりはこちら",
   },
+  "grave-closing-for-single": {
+    title: "おすすめ：みんなの海洋散骨（無料見積もり）",
+    description:
+      "墓じまい後の供養に。全国海域対応・粉骨費用込みの海洋散骨サービス。まずは無料見積もりから。",
+    href: "https://px.a8.net/svt/ejp?a8mat=4B3GYI+1FSQEQ+4P1A+5Z6WX",
+    label: "無料見積もりはこちら",
+  },
 };
 
 export default async function PostPage({
