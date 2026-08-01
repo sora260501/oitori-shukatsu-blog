@@ -53,6 +53,38 @@ tags: ["認知症", "AirTag", "GPS", "徘徊", "見守り", "親の介護"]
 - AirTagは**iPhone専用**です。Android中心の方は「**Tile（タイル）**」や「Galaxy SmartTag」が選択肢になります
 - 位置がわかるのは「近くに誰かのiPhoneがあるとき」だけ。だから**モノ探しには十分でも、人の徘徊追跡には不向き**です
 
+**Apple純正のAirTag**は、1個から購入できます。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"Apple AirTag 本体 1個 ばら売り単品 第1世代 アップル エアタグ 正規品 新品 紛失防止タグ 忘れ物防止 忘れ物タグ 紛失防止 GPS トラッカー 探し物 発見器 鍵 財布 バッグ iPhone iPad 対応 MX532ZP\/A","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/yswaizu\/cabinet\/07888084\/09584257","p":["\/imgrc0080966204.jpg","\/1.jpg","\/2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/yswaizu\/4549995106589\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/yswaizu\/4549995106589\/","a_id":5724489,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"PKiat","s":"s"});
+</script>
+<div id="msmaflink-PKiat">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+また、Apple純正以外にも、**Appleの「探す」アプリに対応した互換タグ**（MFi認証済み）が販売されています。月額料金がかからず、キーホルダー型で財布や鍵に付けやすいものもあります。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"エアタグ Apple認証 子供 月額不要 スマートタグ iphone 見守り 紛失防止タグ 財布 鍵 追跡 紛失 ペット スマートトラッカー 探す 高齢者 徘徊 位置情報 忘れ物防止 ウォッチバンド ケース付き カバー付き 登下校 MFi認証済み P23 ★レビューで特典を選べる","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/chips\/cabinet","p":["\/syohin\/new\/smarttag\/p23-01-2-rakv2.jpg","\/tj\/r-img_rr\/6\/st-p23.jpg","\/syohin\/new\/smarttag\/p23-02v2.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/chips\/st-p23\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/chips\/st-p23\/","a_id":5724489,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"Ty9ZM","s":"s"});
+</script>
+<div id="msmaflink-Ty9ZM">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+ただし、これらの互換タグも**仕組みはAirTagと同じ**です。財布や鍵の紛失防止には十分役立ちますが、次に説明するとおり**徘徊の見守りには向きません**。用途を分けて考えてください。
+
 ## 徘徊の居場所把握：AirTagは不向き、専用GPSを
 
 「それなら親の見守りにもAirTagを」と考える方は多いのですが、**徘徊対策にAirTagはおすすめできません**。理由は3つあります。
