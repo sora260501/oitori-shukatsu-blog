@@ -55,6 +55,33 @@ tags: ["認知症", "GPS", "徘徊", "インソール", "見守り", "親の介�
 
 普段履いている靴の中敷きを、GPS内蔵のインソールに入れ替えて使うタイプです。**手持ちの靴を活かせる**手軽さが魅力で、近年登場した比較的新しい選択肢です。
 
+また、**AirTagを収納できるポケット付きのインソール**も市販されています。すでにAirTagをお持ちの方や、まずは手軽に試してみたい方には、比較的低価格で始められる選択肢です。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"【衝撃吸収モデル】 Airtag隠せるインソール airtag 靴 gps インソール 高齢者 子供 認知症 靴に入れる 13.5cm〜29cm 徘徊 迷子対策 エアタグケース 追跡 カット可 中敷き ホルダー 徘徊対策 介護 エアタグ エアタグが隠せるインソール","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/onips-vision\/cabinet\/11518453\/11825452","p":["\/imgrc0101891591.jpg","\/01.jpg","\/imgrc0110757246.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/onips-vision\/ati0046101\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/onips-vision\/ati0046101\/","a_id":5724489,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"A5c1h","s":"s"});
+</script>
+<div id="msmaflink-A5c1h">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+#### AirTag活用時に必ず知っておきたい制約
+
+ただし、AirTagは前回の記事で解説したとおり、**近くに他の人のiPhoneがないと位置がわからない**という重要な制約があります。これは徘徊対策として使ううえで、命に関わる差になることがあります。
+
+- **人通りが多い市街地**：周囲にiPhoneユーザーが多いため、比較的位置を追いやすい
+- **山林・田畑・郊外の道**：人目につかない場所では**検知が非常に難しくなる**
+- **人気のない場所に留まっている場合**：発見が大幅に遅れる可能性がある
+
+つまり、AirTagが機能するかどうかは**「その場所を通る人がいるか」に左右される**のです。認知症の方の外出先は予測が難しく、思わぬ遠方や人けのない場所まで歩いてしまうケースも珍しくありません。
+
+**近所への短時間の外出が中心の方**や、まずは低コストで試してみたい場合には有効な選択肢ですが、**遠出の可能性がある方・山や田畑が近い地域にお住まいの方は、通信機能を備えた専用GPSを選ぶことを強くおすすめします**。
+
 ### かかと埋め込み型
 
 靴のかかと部分に小型の端末を収納するタイプ。外からは見えないため、本人が違和感を持ちにくいのが特徴です。「魔法の靴」など専用シューズとして販売されています。
