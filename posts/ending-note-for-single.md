@@ -94,6 +94,54 @@ tags: ["エンディングノート", "終活", "おひとり様", "書き方"]
 
 「死後に開封してください」と書いた封筒に入れ、弁護士や行政書士に預ける方法も安心です。
 
+## どのエンディングノートを選べばいい？
+
+エンディングノートは、市販のものでも普通のノートでも構いません。ただ、**項目があらかじめ用意されている市販のノート**は、「何を書けばいいか」で迷わずに済むため、最初の一歩を踏み出しやすくなります。
+
+書店やネット通販で1,000〜2,000円程度から購入できます。選ぶときのポイントは3つです。
+
+- **書きたい項目が入っているか**（医療の希望・財産・デジタル情報など）
+- **書く量が多すぎないか**（分厚すぎると挫折しやすい）
+- **サイズ**（A5サイズなら保管しやすい）
+
+参考までに、よく選ばれているタイプを紹介します。
+
+**① デジタル情報も記録できるタイプ**
+
+パスワード・SNS・サブスクなど、現代ならではの項目が入っているノートです。[デジタル終活](/blog/digital-katsukatsu-for-single)もあわせて進めたい方に向いています。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"ノートライフ エンディングノート 終活ノート A5 シンプルで簡単に書ける 人気 おしゃれ 気軽に整理 パスワード・SNS・サブスク・連絡先も記録できる 記録帳 遺言メモ","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/zakka-unique\/cabinet","p":["\/imgrc0126292451.jpg","\/compass1680089616.jpg","\/compass1680089636.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/zakka-unique\/b0bzsxy6rc\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/zakka-unique\/b0bzsxy6rc\/","a_id":5724489,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"VCuK8","s":"s"});
+</script>
+<div id="msmaflink-VCuK8">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+**② お墓・葬儀・介護まで幅広く記録するタイプ**
+
+自分の情報から、お墓・ペット・介護医療・葬儀・預貯金・保険まで、終活全般を1冊にまとめたい方に向いています。
+
+<!-- START MoshimoAffiliateEasyLink -->
+<script type="text/javascript">
+(function(b,c,f,g,a,d,e){b.MoshimoAffiliateObject=a;
+b[a]=b[a]||function(){arguments.currentScript=c.currentScript
+||c.scripts[c.scripts.length-2];(b[a].q=b[a].q||[]).push(arguments)};
+c.getElementById(a)||(d=c.createElement(f),d.src=g,
+d.id=a,e=c.getElementsByTagName("body")[0],e.appendChild(d))})
+(window,document,"script","//dn.msmstatic.com/site/cardlink/bundle.js?20220329","msmaflink");
+msmaflink({"n":"エンディングノート もしもに備える情報ノート 終活 A5サイズ 自分の情報 家族の情報 お墓 ペット 介護医療 葬儀 預貯金 不動産 保険 連絡先の大切な情報を整理する","b":"","t":"","d":"https:\/\/thumbnail.image.rakuten.co.jp","c_p":"\/@0_mall\/onesdirect\/cabinet\/item2","p":["\/endingnote01.jpg","\/endingnote02.jpg","\/endingnote03.jpg"],"u":{"u":"https:\/\/item.rakuten.co.jp\/onesdirect\/endingnote\/","t":"rakuten","r_v":""},"v":"2.1","b_l":[{"id":1,"u_tx":"楽天市場で見る","u_bc":"#f76956","u_url":"https:\/\/item.rakuten.co.jp\/onesdirect\/endingnote\/","a_id":5724489,"p_id":54,"pl_id":27059,"pc_id":54,"s_n":"rakuten","u_so":1}],"eid":"kQBet","s":"s"});
+</script>
+<div id="msmaflink-kQBet">リンク</div>
+<!-- MoshimoAffiliateEasyLink END -->
+
+もちろん、**手持ちのノートに書き始めても構いません**。大切なのは「どのノートを買うか」ではなく、「書き始めること」です。
+
 ## まとめ：まず1ページ、今日書いてみる
 
 エンディングノートは、書き終わったときに完成するものではありません。書き始めた瞬間から、あなたと周囲の人の「もしも」への備えが始まります。
