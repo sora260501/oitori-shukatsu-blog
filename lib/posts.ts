@@ -51,6 +51,7 @@ const categoryLabels: Record<string, string> = {
   "nursing-home": "老人ホーム・施設",
   digital: "デジタル遺産",
   medical: "医療・介護の備え",
+  nutrition: "食事・栄養",
   basics: "終活の基本",
 };
 
