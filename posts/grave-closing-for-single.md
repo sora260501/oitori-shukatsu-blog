@@ -76,6 +76,18 @@ tags: ["墓じまい", "改葬", "お墓", "おひとり様", "終活", "永代�
 
 「お墓という形にこだわらず、自然に還りたい」という方には、**海洋散骨**も人気です。墓じまいで取り出した遺骨を粉骨し、海に撒く方法で、お墓の管理から完全に解放されます。詳しくは[海洋散骨とは？費用・流れ・メリットとデメリット](/blog/ocean-scattering-for-single)をご覧ください。
 
+### 「手を合わせる場所」を残したい方へ
+
+墓じまいで悩ましいのが、「お墓がなくなると、手を合わせる場所もなくなってしまう」という点です。
+
+そんなときの選択肢が**手元供養**です。遺骨の一部を粉骨して小さな容器に納め、自宅で供養する方法で、墓地代も年間管理費もかかりません。インテリアになじむガラス製のものなど、お墓らしくないデザインも増えています。
+
+<div style="text-align:center;margin:1.6rem 0">
+<a href="//af.moshimo.com/af/c/click?a_id=5736691&p_id=4226&pc_id=10760&pl_id=57820" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" attributionsrc><img src="//image.moshimo.com/af-img/3797/000000057820.png" width="300" height="300" style="border:none;max-width:100%;height:auto"></a><img src="//i.moshimo.com/af/i/impression?a_id=5736691&p_id=4226&pc_id=10760&pl_id=57820" width="1" height="1" style="border:none;" loading="lazy">
+</div>
+
+「大半は永代供養や散骨に、一部は手元に」——このように**組み合わせる**ことで、管理の負担をなくしながら、故人を身近に感じられる形を選べます。
+
 ## トラブルを避ける3つの注意点
 
 墓じまいは、進め方を間違えると親族やお寺とのトラブルになることがあります。次の3点に注意しましょう。
